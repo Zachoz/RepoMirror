@@ -40,8 +40,8 @@ For 'Payload URL', put in the URL you would use to run the script (like the exam
 When adding the hook the PayLoad will be deployed, meaning the script will be run. 
 
 ## Important notes
-* You must have administrative privledges the the organisation to use this script!
+* You must have administrative privileges the the organisation to use this script!
 * You must have your authentication token set up to use this!
 
 ## Disclaimer
-Changing code other than those 3 varibles meantioned up the top without understanding what you're doing may have a devistating effect! If care is not taken when modifying the code, the primary repository could be deleted, etc. I am not responsible for any loss or damage caused by this script.
+Changing code other than those 3 varibles mentioned up the top without understanding what you're doing may have a devistating effect! If care is not taken when modifying the code, the primary repository could be deleted, etc. I am not responsible for any loss or damage caused by this script.
